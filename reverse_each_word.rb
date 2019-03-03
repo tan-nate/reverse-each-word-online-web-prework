@@ -7,6 +7,7 @@ def reverse_each_word(sentence)
   reversed_sentence = sentence_array.collect do |x|
     x.reverse
   end
+  reversed_sentence
 end
 
 binding.pry
