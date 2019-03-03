@@ -11,3 +11,5 @@ def reverse_each_word(sentence)
 end
 
 binding.pry
+
+reversed_each_word(sentence)
