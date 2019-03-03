@@ -12,5 +12,5 @@ end
 
 binding.pry
 
-reversed_each_word(sentence)
+reverse_each_word(sentence)
 binding.pry
